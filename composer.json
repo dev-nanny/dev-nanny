@@ -1,0 +1,19 @@
+{
+    "name": "dev-nanny/dev-nanny",
+    "description": "Teaching developers to behave.",
+    "keywords": ["quality-assurance", "education", "development"],
+    "license": "GPL-3.0+",
+    "type": "meta-package",
+    "authors": [
+        {
+            "name": "Potherca",
+            "homepage": "http://pother.ca",
+            "email": "potherca@gmail.com",
+            "role": "Kick-ass Web Developer"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "dev-nanny/ComposerPlugin": "~0"
+    }
+}
