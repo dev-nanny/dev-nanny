@@ -7,13 +7,13 @@
     "authors": [
         {
             "name": "Potherca",
-            "homepage": "http://pother.ca",
+            "homepage": "http://pother.ca/",
             "email": "potherca@gmail.com",
             "role": "Kick-ass Web Developer"
         }
     ],
     "minimum-stability": "stable",
     "require": {
-        "dev-nanny/ComposerPlugin": "~0"
+        "dev-nanny/composer-plugin": "~0.1"
     }
 }
